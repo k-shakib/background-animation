@@ -202,3 +202,15 @@
         border-radius: 0;
     }
 }
+
+/* responsive part  */
+@media only screen and (min-width:1224px) and (max-width:1400px){:root {--fontsize: 7rem;}}
+@media only screen and (max-width:1224px){:root {--fontsize: 6rem;}}
+@media only screen and (max-width:1024px){:root {--fontsize: 5rem;}}
+@media only screen and (max-width:864px){:root {--fontsize: 4.3rem;}}
+@media only screen and (max-width:776px){:root {--fontsize: 3.8rem;}}
+@media only screen and (max-width:666px){:root {--fontsize: 3rem;}}
+@media only screen and (max-width:512px){:root {--fontsize: 2.5rem;}}
+@media only screen and (max-width:466px){:root {--fontsize: 2rem;}}
+@media only screen and (max-width:400px){:root {--fontsize: 1.7rem;}}
+@media only screen and (max-width:320px){:root {--fontsize: 1.1rem;}}
